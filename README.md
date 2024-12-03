@@ -1,6 +1,4 @@
-﻿# store-web-site-task-
 
 
-
-https://github.com/user-attachments/assets/5cae8523-68bc-4618-8c81-2e6ebed44cad
+https://github.com/user-attachments/assets/d6569d15-54cd-4a44-a38c-0da64d5fc116
 

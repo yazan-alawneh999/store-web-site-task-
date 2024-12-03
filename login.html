@@ -3,31 +3,54 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Login - Yazan Store</title>
-    <link rel="stylesheet" href="styles.css" />
+    <meta
+      name="description"
+      content="Login to Yazan Electronics Store to access exclusive deals and features."
+    />
+    <title>Login - Yazan Electronics Store</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
     <header>
-      <h1>Yazan Store</h1>
+      <img src="images/yazan.png" alt="Yazan Electronics Store Logo" />
       <nav>
-        <a href="index.html">Home</a>
+        <a href="home.html">Home</a>
         <a href="about.html">About Us</a>
         <a href="contact.html">Contact Us</a>
-        <a href="login.html">Login</a>
+        <a href="login.html" class="active">Login</a>
       </nav>
     </header>
-    <main>
-      <h2>Login</h2>
-      <form>
-        <label for="username">Username:</label>
-        <input type="text" id="username" name="username" required />
-        <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required />
-        <input type="submit" value="Login" />
+
+    <div class="container">
+      <form class="login-form">
+        <h2>Login</h2>
+        <label for="username">Username</label>
+        <input
+          type="text"
+          id="username"
+          name="username"
+          placeholder="Enter your username"
+          required
+        />
+        <label for="password">Password</label>
+        <input
+          type="password"
+          id="password"
+          name="password"
+          placeholder="Enter your password"
+          required
+        />
+        <button type="submit">Login</button>
       </form>
-    </main>
+    </div>
+
     <footer>
-      <p>&copy; 2024 My Store. All rights reserved.</p>
+      <p>Contact us: yazanalawneh.999@gmail.com | Phone: 123-456-7890</p>
+      <p>
+        Follow us: <a href="#" style="color: white">Facebook</a> |
+        <a href="#" style="color: white">Instagram</a>
+      </p>
+      <p>The yazan store © Copyright 2022 - All Rights Reserved</p>
     </footer>
   </body>
 </html>

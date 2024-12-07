@@ -1,5 +1,5 @@
 ﻿# store-web-site-task-
-#sorry i want to let you know that i forgot to change the logo url in some pages , concidering the difficulty to recording new vedio please be tolerance with me .
+## sorry i want to let you know that i forgot to change the logo url in some pages , concidering the difficulty to recording new vedio please be tolerance with me .
 yaza alawneh,
 best regards.
 
